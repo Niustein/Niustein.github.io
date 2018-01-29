@@ -1,0 +1,187 @@
+body { 
+background: url("Legion-MainBG.jpg"); 
+text-align: center;
+}
+
+a {
+color: #ffffff;
+margin: 5px
+}
+
+h1{
+font-size: 38px;
+color: #267F16;
+}
+
+h2{
+text-align: left;
+font-size: 32px;
+color: #267F16
+}
+
+hr{
+height: 2px;
+color: #ff3819;
+}
+
+th{
+text-align:center;
+padding: 8px;
+color: #ffffff
+}
+
+td{
+text-align:left;
+padding: 4px;
+color: #ffffff
+}
+
+
+
+#leftMargin{
+background: #000000;
+text-align: center;
+height: 2.5%;
+width: 90%;
+margin: 0px auto;
+}
+
+#infoContainer{
+width: 60%;
+height: 90%;
+background: #000000;
+margin: 25px auto;
+overflow: auto;
+}
+
+#imageContainer{
+background: #000000;
+width: 25%;
+height: 18.96%;
+float:right;
+}
+
+#homeAnswer{
+font-size: 18pt;
+text-align: left;
+color: #ffffff;
+}
+
+#BAbilities, #extraInfo{
+font-size: 16pt;
+text-align: left;
+color: #ffffff;
+}
+
+#TLDR , #homeTerms{
+font-size: 16pt;
+text-align: left;
+color: #ffffff;
+}
+
+#eonarAdds{
+font-family: arial;
+border-collapse: collapse;
+border-color:#267F16;
+}
+
+#Back1{
+background-image: url("Garothi-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back2{
+background-image: url("Felhounds-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back3{
+background-image: url("HighCommand-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back4{
+background-image: url("PortalKeeper-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back5{
+background-image: url("Eonar-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back6{
+background-image: url("Imonar-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back7{
+background-image: url("Kin'garoth-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back8{
+background-image: url("Varimarthras-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back9{
+background-image: url("Coven-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back10{
+background-image: url("Aggamar-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+#Back11{
+background-image: url("Argus-1.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: contain;
+height: 100%;
+width: 100%;
+}
+
+
